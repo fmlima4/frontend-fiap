@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-fixed {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    background-color: #fff; /* ou qualquer cor de fundo desejada */
+  }
