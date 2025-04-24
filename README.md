@@ -1,11 +1,6 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-
-![image](https://github.com/user-attachments/assets/7ef47132-e416-4f0d-b6e6-28c5e3069b31)
-
+![image](https://github.com/user-attachments/assets/2db29812-f6f7-47a5-8218-47c8a9e8738d)
 
 # 💻 Projeto
 Este projeto foi desenvolvido para cumprir os requisitos do trabalho da disciplina de Frontend Engineering. O objetivo principal é criar uma aplicação web que consuma uma API para gerar e exibir palavras randômicas, aplicando conceitos de desenvolvimento frontend e integração com APIs.
