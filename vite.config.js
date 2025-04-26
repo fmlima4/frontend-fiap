@@ -12,4 +12,9 @@ export default defineConfig({
       },
     },
   },
+  preview: {
+    host: true,
+    port: 4173,
+    allowedHosts: ['frontend-fiap-t7to.onrender.com'],
+  },
 })
