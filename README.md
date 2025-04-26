@@ -40,7 +40,7 @@ Após isso ele irá inciar na porta `5173` no seu localhost, ou seja, basta apen
 
 
 ## 🌐 Online Access
-Você tambem pode acessar a API na Web, ela está deployada no seguinte link `https://XXXXXXX`, para realizar este deploy foi utilizada a ferramenta [XXXX]().
+Você tambem pode acessar a API na Web, ela está deployada no seguinte link `https://frontend-fiap-t7to.onrender.com/`, para realizar este deploy foi utilizada a ferramenta [Render].
 
 ## 📜 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/fmlima4/frontend-fiap/blob/main/LICENSE) para mais detalhes.
